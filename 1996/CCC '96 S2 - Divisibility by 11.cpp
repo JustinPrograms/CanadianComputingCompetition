@@ -1,5 +1,3 @@
-// Have not verified through DMOJ. Verified using test cases. Will verifiy through DMOJ when they fix submissions
-
 #include <iostream>
 #include <string>
 #include <algorithm>
